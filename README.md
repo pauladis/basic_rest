@@ -1,1 +1,1 @@
-# basic_rest
+# just a basic rest application
